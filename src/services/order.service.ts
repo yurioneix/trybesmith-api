@@ -24,4 +24,4 @@ async function getAll(): Promise<OrderProducts[]> {
 
 getAll();
 
-export default getAll;
+export default { getAll };
