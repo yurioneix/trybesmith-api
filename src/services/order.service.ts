@@ -17,11 +17,8 @@ async function getAll(): Promise<OrderProducts[]> {
     group: ['Order.id'],
     raw: true,
   }) as unknown as OrderProducts[];
-  console.log(allOrders);
   
   return allOrders;
 }
-
-getAll();
 
 export default { getAll };
