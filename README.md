@@ -1,7 +1,6 @@
 # Trybesmith API
 
-Projeto desenvolvido no módulo de Backend da Trybe, que consiste numa API de uma loja de itens medievais, utilizando Typescript, Express, Sequelize bem como testes com Jest, Mocha, Sinon, Chai e chai-http.
-
+Projeto desenvolvido no módulo de Backend da Trybe, que consiste numa API de uma loja de itens medievais, utilizando Typescript, Express e Sequelize.
 <br>
 
 ## Instalação
