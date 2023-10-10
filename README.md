@@ -150,3 +150,17 @@ Projeto desenvolvido no módulo de Backend da Trybe, que consiste numa API de um
 
 
 </details>
+
+<br>
+
+## Pastas/arquivos desenvolvidos por mim
+
+```bash
+  src/app.ts
+  src/controllers
+  src/router
+  src/services
+  src/types
+  src/utils
+  
+```
